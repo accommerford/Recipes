@@ -1,0 +1,37 @@
+---
+title: "Chickpea Salad"
+author: "Two Peas and Their Pod"
+date: "2025-03-24"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### Ingredients 
+* 2 (15 oz) cans chickpeas, drained and rinsed
+* 3/4 cup diced celery
+* 1/2 cup diced dill pickles
+* 1/2 cup sliced green onion
+* 1/2 cup plain Greek yogurt
+* 1 tablespoon lemon juice
+* 1 to 2 tablespoons Dijon mustard
+* 2 teaspoons red wine vinegar
+* 2 tablespoons freshly chopped dill
+* 2 tablespoons freshly chopped parsley
+* 1/4 teaspoon garlic powder
+* Kosher salt and black pepper, to taste
+
+### Instructions
+
+1. Place the chickpeas on a clean dish towel or paper towel. Put another towel on top. Use your hands to roll and rub the chickpeas for about 20-30 seconds. This will help the skins come off easier. Remove the skins and discard. I try to remove most of the skins, but if you don’t get them all, that is ok. And if you don't have time to remove the skins, just rinse and drain. The salad will still be good. Removing the skins just makes the salad a little creamier and smooth.
+2. Place the chickpeas in a large bowl and mash with a fork or potato masher until most of the chickpeas are smashed. Stir in the celery, onion, and pickles.
+3. In a small bowl, whisk together the Greek yogurt, lemon juice, mustard, red wine vinegar, dill, parsley, garlic powder, salt, and pepper.
+4. Add the sauce to the chickpea mixture and stir until well combined. Taste and adjust ingredients, if necessary.
+5. Serve in between two slices of bread to make a sandwich, in pita bread, in a lettuce wrap, in a tortilla, with crackers or chips, or on top of a rice cake, or add to a bed of greens to make a salad! The options are endless.
+
+### Notes
+
+This recipe is very flexible. Mix everything together, taste, and then adjust. You can always add more pickles, lemon, mustard, herbs, salt, etc. See the post for other variations too!
+The salad will keep in an airtight container in the fridge for up to 5 days. 

@@ -4,5 +4,9 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "About"
-      href: about.html
+    - text: "Breakfast"
+      href: breakfast.html
+    - text: "Lunch"
+      href: lunch.html
+    - text: "Dinner"
+      href: dinner.html

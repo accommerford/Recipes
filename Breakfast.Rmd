@@ -1,0 +1,20 @@
+---
+title: "Breakfast"
+author: "Audrey Commerford"
+date: "2025-03-23"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Greek yog + frozen berries + granola 
+
+English muffin + egg + cheese + spinach 
+
+English muffin + cream cheese/jam/peanut butter/honey 
+
+Oatmeal + berries + chocolate chips 
+
+Farro + soft boiled eggs + feta 

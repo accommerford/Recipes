@@ -1,0 +1,24 @@
+---
+title: "Lunch"
+author: "Audrey Commerford"
+date: "2025-03-24"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Crackers + cheese + fruit + sweet
+
+Pita chips/bread + hummus + carrots/snap peas + sweet/fruit
+
+Chips + guac/avocado + fruit + sweet
+
+Greek salad: cucumber + tomato + red onion + olive + feta + olive oil/red wine vinegar/oregano
+
+Spinach calzone: pizza dough + ricotta + shredded mozzarella + pinch salt + pinch garlic powder 
+
+Blistered tomato + wild rice + fried (soft boiled?) egg + feta
+
+[Chickpea salad](ChickpeaSalad.html) + crackers/bread + veggies  
